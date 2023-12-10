@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right, rgb(167, 43, 113), rgb(15, 18, 219));
+    font-family: 'Andale Mono', monospace;
+    margin: 0;
+    padding: 0; /* Added padding to ensure content doesn't touch the edges */
+    color: #fff; /* Set text color to white for better visibility */
+}
+
+/* Add any additional styles or overrides below this comment */
